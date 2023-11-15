@@ -3,8 +3,8 @@
 **可通过ESP32-C3创建的热点进入网页后台选择Payload的EvilAppleJuice ESP32**
 示例图：
 <figure class="half">  
-<img src="https://github.com/Akagicv/EvilAppleJuice-ESP32-WEB/blob/main/img/Screenshot_2.jpg?raw=true" width="400"/>  
-<img src="https://github.com/Akagicv/EvilAppleJuice-ESP32-WEB/blob/main/img/Screenshot_1.jpg?raw=true" width="400"/>  
+<img src="https://github.com/Akagicv/EvilAppleJuice-ESP32-WEB/blob/main/img/Screenshot_2.jpg?raw=true" width="300"/>  
+<img src="https://github.com/Akagicv/EvilAppleJuice-ESP32-WEB/blob/main/img/Screenshot_1.jpg?raw=true" width="300"/>  
 </figure>
 
 **注：本固件仅用于学习交流使用，使用者所造成的一切后果与作者无关**
